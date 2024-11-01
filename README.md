@@ -1,2 +1,2 @@
 # docker-image
-拉去docker镜像
+拉取docker镜像
